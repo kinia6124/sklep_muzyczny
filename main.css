@@ -814,3 +814,295 @@ body {
     left:230px;
     top:514px;
   }
+
+  .imie {
+    border-width:0px;
+    position:absolute;
+    left:150px;
+    top:400px;
+    width:300px;
+    height:25px;
+  }
+  .imie_input {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:300px;
+    height:25px;
+    font-family:'Arial Normalny', 'Arial';
+    font-weight:400;
+    font-style:normal;
+    font-size:13px;
+    text-decoration:none;
+    color:#000000;
+    text-align:left;
+  }
+
+  .nazwisko {
+    border-width:0px;
+    position:absolute;
+    left:500px;
+    top:400px;
+    width:300px;
+    height:25px;
+  }
+  .nazwisko_input {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:300px;
+    height:25px;
+    font-family:'Arial Normalny', 'Arial';
+    font-weight:400;
+    font-style:normal;
+    font-size:13px;
+    text-decoration:none;
+    color:#000000;
+    text-align:left;
+  }
+
+  .poczta {
+    border-width:0px;
+    position:absolute;
+    left:150px;
+    top:445px;
+    width:300px;
+    height:25px;
+  }
+  .poczta_input {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:300px;
+    height:25px;
+    font-family:'Arial Normalny', 'Arial';
+    font-weight:400;
+    font-style:normal;
+    font-size:13px;
+    text-decoration:none;
+    color:#000000;
+    text-align:left;
+  }
+
+  .miasto {
+    border-width:0px;
+    position:absolute;
+    left:500px;
+    top:445px;
+    width:300px;
+    height:25px;
+  }
+  .miasto_input {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:300px;
+    height:25px;
+    font-family:'Arial Normalny', 'Arial';
+    font-weight:400;
+    font-style:normal;
+    font-size:13px;
+    text-decoration:none;
+    color:#000000;
+    text-align:left;
+  }
+
+  .ulica {
+    border-width:0px;
+    position:absolute;
+    left:150px;
+    top:490px;
+    width:300px;
+    height:25px;
+  }
+  .ulica_input {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:300px;
+    height:25px;
+    font-family:'Arial Normalny', 'Arial';
+    font-weight:400;
+    font-style:normal;
+    font-size:13px;
+    text-decoration:none;
+    color:#000000;
+    text-align:left;
+  }
+
+  .ulica {
+    border-width:0px;
+    position:absolute;
+    left:150px;
+    top:490px;
+    width:300px;
+    height:25px;
+  }
+  .ulica_input {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:300px;
+    height:25px;
+    font-family:'Arial Normalny', 'Arial';
+    font-weight:400;
+    font-style:normal;
+    font-size:13px;
+    text-decoration:none;
+    color:#000000;
+    text-align:left;
+  }
+  .numer {
+    border-width:0px;
+    position:absolute;
+    left:500px;
+    top:490px;
+    width:300px;
+    height:25px;
+  }
+  .numer_input {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:300px;
+    height:25px;
+    font-family:'Arial Normalny', 'Arial';
+    font-weight:400;
+    font-style:normal;
+    font-size:13px;
+    text-decoration:none;
+    color:#000000;
+    text-align:left;
+  }
+
+  .kraj {
+    border-width:0px;
+    position:absolute;
+    left:150px;
+    top:535px;
+    width:300px;
+    height:25px;
+  }
+  .kraj_input {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:300px;
+    height:25px;
+    font-family:'Arial Normalny', 'Arial';
+    font-weight:400;
+    font-style:normal;
+    font-size:13px;
+    text-decoration:none;
+    color:#000000;
+    text-align:left;
+  }
+  .numertel {
+    border-width:0px;
+    position:absolute;
+    left:150px;
+    top:580px;
+    width:300px;
+    height:25px;
+  }
+  .numertel_input {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:300px;
+    height:25px;
+    font-family:'Arial Normalny', 'Arial';
+    font-weight:400;
+    font-style:normal;
+    font-size:13px;
+    text-decoration:none;
+    color:#000000;
+    text-align:left;
+  }
+
+  .adres_email {
+    border-width:0px;
+    position:absolute;
+    left:500px;
+    top:580px;
+    width:300px;
+    height:25px;
+  }
+  .adres_email_input {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:300px;
+    height:25px;
+    font-family:'Arial Normalny', 'Arial';
+    font-weight:400;
+    font-style:normal;
+    font-size:13px;
+    text-decoration:none;
+    color:#000000;
+    text-align:left;
+  }
+
+  .button_dane {
+    border-width:0px;
+    position:absolute;
+    left:415px;
+    top:700px;
+    width:140px;
+    height:40px;
+    font-family:'Arial Pogrubiony', 'Arial Normalny', 'Arial';
+    font-weight:700;
+    font-style:normal;
+    font-size:18px;
+  }
+  .buttondane_text {
+    border-width:0px;
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:136px;
+    word-wrap:break-word;
+  }
+
+  .button_zrealizowane {
+    border-width:0px;
+    position:absolute;
+    left:270px;
+    top:750px;
+    width:440px;
+    height:40px;
+    font-family:'Arial Pogrubiony', 'Arial Normalny', 'Arial';
+    font-weight:700;
+    font-style:normal;
+    font-size:18px;
+  }
+  .buttonzrealizowane_text {
+    border-width:0px;
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:100%;
+    word-wrap:break-word;
+  }
+  .tytulstr2{
+    border-width:0px;
+    position:absolute;
+    left:270px;
+    top:325px;
+    width:400px;
+    height:50px;
+    font-family:'Arial';
+    font-weight:700;
+    font-style:normal;
+    font-size:24px;
+    text-align: center;
+  }
+
+ .tabela{
+  border-width:0px;
+  position:absolute;
+  left:150px;
+  top:500px;
+  width:750px;
+  height:40px;
+ }
