@@ -1,44 +1,22 @@
-body {
-    margin:0px;
-    background-image:none;
-    position:static;
-    left:auto;
-    width:877px;
-    margin-left:0;
-    margin-right:0;
-    text-align:left;
-  }
-  .container {
-    position:absolute;
-    z-index:0;
-  }
-  .img {
-    border-width:0px;
-    position:absolute;
-    left:0px;
-    top:0px;
-    width:420px;
-    height:192px;
-  }
-  .obrazek {
-    border-width:0px;
-    position:absolute;
-    left:280px;
-    top:90px;
-    width:420px;
-    height:192px;
-  }
-  
-  
-  .tytul {
-    border-width:0px;
-    position:absolute;
-    left:28px;
-    top:19px;
-    width:418px;
-    height:86px;
+
+
+  .calosc{
+   margin:0;
+    text-align: center;
+ background:#A18C70;
+    
   }
 
+  .img {
+    border-width:0px;
+    display: inline-block;
+  }
+ 
+  .nazwa {
+    border-width:0px;
+    display: inline-block;
+  }
+  
   a:link{
       color:#000000;
       text-decoration: none;
@@ -62,233 +40,25 @@ body {
     text-decoration: none;
   }
 
-  .nazwa {
-    border-width:0px;
-    position:absolute;
-    left:0px;
-    top:0px;
-    width:418px;
-    font-family: 'Arial', cursive;
-    font-weight:700;
-    font-style:italic;
-    text-align:center;
-    font-size: 45px;
-    word-wrap:break-word;
-  }
- 
-  .div1 {
-    border-width:0px;
-    position:absolute;
-    left:542px;
-    top:28px;
-    width:85px;
-    height:20px;
-    color:#1E1E1E;
-  }
-  .logowanie {
-    border-width:0px;
-    position:absolute;
-    left:2px;
-    top:2px;
-    width:81px;
-    white-space:nowrap;
+  .zawartosc{
+    width:60%;
+    display: inline-block;
+
   }
 
-
-  .div2 {
-    border-width:0px;
-    position:absolute;
-    left:649px;
-    top:28px;
-    width:96px;
-    height:20px;
-    color:#1E1E1E;
-  }
-  .rejestracja {
-    border-width:0px;
-    position:absolute;
-    left:2px;
-    top:2px;
-    width:92px;
-    white-space:nowrap;
-  }
-  
-  .menu {
-    border-width:0px;
-    position:absolute;
-    left:20px;
-    top:250px;
-    width:117px;
-    height:320px;
-  }
-
-
-  .div3 {
-    border-width:0px;
-    position:absolute;
-    left:0px;
-    top:0px;
-    width:117px;
-    height:40px;
-  }
-  .aktualnosci {
-    border-width:0px;
-    position:absolute;
-    left:2px;
-    top:12px;
-    width:113px;
-    word-wrap:break-word;
-  }
- 
-  
-  .div4 {
-    border-width:0px;
-    position:absolute;
-    left:0px;
-    top:40px;
-    width:117px;
-    height:40px;
-  }
-  .promocje {
-    border-width:0px;
-    position:absolute;
-    left:2px;
-    top:12px;
-    width:113px;
-    word-wrap:break-word;
-  }
-
-  .div5 {
-    border-width:0px;
-    position:absolute;
-    left:0px;
-    top:80px;
-    width:117px;
-    height:40px;
-  }
-  .top {
-    border-width:0px;
-    position:absolute;
-    left:2px;
-    top:12px;
-    width:113px;
-    word-wrap:break-word;
-  }
-
-  
-  .div6 {
-    border-width:0px;
-    position:absolute;
-    left:0px;
-    top:160px;
-    width:117px;
-    height:40px;
-  }
-  .katproduktow {
-    border-width:0px;
-    position:absolute;
-    left:2px;
-    top:4px;
-    width:113px;
-    word-wrap:break-word;
-  }
-  
-  .div7 {
-    border-width:0px;
-    position:absolute;
-    left:0px;
-    top:210px;
-    width:117px;
-    height:40px;
-  }
-  .produkty {
-    border-width:0px;
-    position:absolute;
-    left:2px;
-    top:12px;
-    width:113px;
-    word-wrap:break-word;
-  }
-  
-  
-  .div8 {
-    border-width:0px;
-    position:absolute;
-    left:0px;
-    top:250px;
-    width:117px;
-    height:40px;
-  }
-  .koszyk {
-    border-width:0px;
-    position:absolute;
-    left:2px;
-    top:12px;
-    width:113px;
-    word-wrap:break-word;
-  }
-  
-  .div9 {
-    border-width:0px;
-    position:absolute;
-    left:0px;
-    top:290px;
-    width:117px;
-    height:40px;
-  }
-  .kontakt {
-    border-width:0px;
-    position:absolute;
-    left:2px;
-    top:12px;
-    width:113px;
-    word-wrap:break-word;
-  }
-  
-  .div10 {
-    border-width:0px;
-    position:absolute;
-    left:0px;
-    top:330px;
-    width:117px;
-    height:40px;
-  }
-  .onas {
-    border-width:0px;
-    position:absolute;
-    left:2px;
-    top:12px;
-    width:113px;
-    word-wrap:break-word;
-  }
-
-  .tytulstr{
-    border-width:0px;
-    position:absolute;
-    left:313px;
-    top:325px;
-    width:300px;
-    height:50px;
-    font-family:'Arial';
-    font-weight:700;
-    font-style:normal;
-    font-size:32px;
-    text-align: center;
-  }
-  
   .email {
     border-width:0px;
     position:absolute;
-    left:315px;
+    left:415px;
     top:400px;
-    width:300px;
+    width:23%;
     height:25px;
   }
   .email_input {
     position:absolute;
     left:0px;
     top:0px;
-    width:300px;
+    width:100%;
     height:25px;
     font-family:'Arial Normalny', 'Arial';
     font-weight:400;
@@ -302,16 +72,14 @@ body {
   .haslo {
     border-width:0px;
     position:absolute;
-    left:315px;
-    top:445px;
-    width:300px;
+    width:23%;
     height:25px;
   }
   .haslo_input {
     position:absolute;
     left:0px;
     top:0px;
-    width:300px;
+    width:100%;
     height:25px;
     font-family:'Arial Normalny', 'Arial';
     font-weight:400;
@@ -322,81 +90,13 @@ body {
     text-align:left;
   }
   
-  .button {
-    border-width:0px;
-    position:absolute;
-    left:415px;
-    top:500px;
-    width:140px;
-    height:40px;
-    font-family:'Arial Pogrubiony', 'Arial Normalny', 'Arial';
-    font-weight:700;
-    font-style:normal;
-    font-size:18px;
-  }
-  .button_text {
-    border-width:0px;
-    position:absolute;
-    left:2px;
-    top:9px;
-    width:136px;
-    word-wrap:break-word;
-  }
-  
-  
-  .buttonrej {
-    border-width:0px;
-    position:absolute;
-    left:300px;
-    top:550px;
-    width:900px;
-    height:40px;
-    text-align: center;
-  }
-  .textrej {
-    border-width:0px;
-    position:absolute;
-    left:2px;
-    top:12px;
-    width:296px;
-    word-wrap:break-word;
-  }
-  
-  .text1 {
-    border-width:0px;
-    position:absolute;
-    left:340px;
-    top:625px;
-    width:241px;
-    height:22px;
-    font-family:'Arial Pogrubiony', 'Arial Normalny', 'Arial';
-    font-weight:700;
-    font-style:normal;
-    font-size:18px;
-  }
-  .text1_1 {
-    border-width:0px;
-    position:absolute;
-    left:0px;
-    top:0px;
-    width:241px;
-    white-space:nowrap;
-  }
-  
   .googlediv {
     border-width:0px;
-    position:absolute;
-    left:0px;
-    top:0px;
     width:140px;
     height:40px;
     background:inherit;
     background-color:rgba(244, 0, 0, 1);
-    border:none;
     border-radius:5px;
-    -moz-box-shadow:none;
-    -webkit-box-shadow:none;
-    box-shadow:none;
     font-family:'Arial Pogrubiony', 'Arial Normalny', 'Arial';
     font-weight:700;
     font-style:normal;
@@ -406,8 +106,6 @@ body {
   .googlebtn {
     border-width:0px;
     position:absolute;
-    left:315px;
-    top:700px;
     width:140px;
     height:40px;
     font-family:'Arial Pogrubiony', 'Arial Normalny', 'Arial';
@@ -422,23 +120,15 @@ body {
     left:2px;
     top:9px;
     width:136px;
-    word-wrap:break-word;
     text-align: center;
   }
  .fbdiv {
     border-width:0px;
-    position:absolute;
-    left:0px;
-    top:0px;
     width:140px;
     height:40px;
     background:inherit;
     background-color:rgba(3, 66, 182, 1);
-    border:none;
     border-radius:5px;
-    -moz-box-shadow:none;
-    -webkit-box-shadow:none;
-    box-shadow:none;
     font-family:'Arial Pogrubiony', 'Arial Normalny', 'Arial';
     font-weight:700;
     font-style:normal;
@@ -448,8 +138,6 @@ body {
   .fb {
     border-width:0px;
     position:absolute;
-    left:475px;
-    top:700px;
     width:140px;
     height:40px;
     font-family:'Arial Pogrubiony', 'Arial Normalny', 'Arial';
@@ -464,261 +152,24 @@ body {
     left:2px;
     top:9px;
     width:136px;
-    word-wrap:break-word;
     text-align: center;
   }
-  
-  .stopka_div {
-    border-width:0px;
-    position:absolute;
-    left:0px;
-    top:0px;
-    width:900px;
-    height:330px;
-    background:-webkit-linear-gradient(280deg, rgba(242, 242, 242, 1) 0%, rgba(242, 242, 242, 1) 23%, rgba(0, 0, 0, 1) 100%, rgba(0, 0, 0, 1) 100%);
-    background:-moz-linear-gradient(170deg, rgba(242, 242, 242, 1) 0%, rgba(242, 242, 242, 1) 23%, rgba(0, 0, 0, 1) 100%, rgba(0, 0, 0, 1) 100%);
-    background:linear-gradient(170deg, rgba(242, 242, 242, 1) 0%, rgba(242, 242, 242, 1) 23%, rgba(0, 0, 0, 1) 100%, rgba(0, 0, 0, 1) 100%);
-    border:none;
-    border-radius:0px;
-    -moz-box-shadow:none;
-    -webkit-box-shadow:none;
-    box-shadow:none;
-  }
-  .stopka {
-    border-width:0px;
-    position:absolute;
-    left:20px;
-    top:850px;
-    margin-bottom: 20px;
-    width:857px;
-    height:180px;
-  }
- 
-  .box1_div {
-    border-width:0px;
-    position:absolute;
-    left:0px;
-    top:0px;
-    width:88px;
-    height:22px;
-    background:inherit;
-    background-color:rgba(255, 255, 255, 0);
-    border:none;
-    border-radius:0px;
-    -moz-box-shadow:none;
-    -webkit-box-shadow:none;
-    box-shadow:none;
-    font-family:'Arial Pogrubiony', 'Arial Normalny', 'Arial';
-    font-weight:700;
-    font-style:normal;
-  }
-  .box1 {
-    border-width:0px;
-    position:absolute;
-    left:36px;
-    top:860px;
-    width:88px;
-    height:22px;
-    font-family:'Arial Pogrubiony', 'Arial Normalny', 'Arial';
-    font-weight:700;
-    font-style:normal;
-  }
-  .box1_text {
-    border-width:0px;
-    position:absolute;
-    left:0px;
-    top:0px;
-    width:88px;
-    white-space:nowrap;
-  }
-  
-  .box2_div {
-    border-width:0px;
-    position:absolute;
-    left:0px;
-    top:0px;
-    width:310px;
-    height:67px;
-    background:inherit;
-    background-color:rgba(255, 255, 255, 0);
-    border:none;
-    border-radius:0px;
-    -moz-box-shadow:none;
-    -webkit-box-shadow:none;
-    box-shadow:none;
-  }
-  .box2 {
-    border-width:0px;
-    position:absolute;
-    left:36px;
-    top:900px;
-    width:310px;
-    height:67px;
-  }
-  .box2_text {
-    border-width:0px;
-    position:absolute;
-    left:0px;
-    top:0px;
-    width:310px;
-    word-wrap:break-word;
-  }
-  
-  .regul_div {
-    border-width:0px;
-    position:absolute;
-    left:0px;
-    top:0px;
-    width:81px;
-    height:20px;
-    background:inherit;
-    background-color:rgba(255, 255, 255, 0);
-    border:none;
-    border-radius:0px;
-    -moz-box-shadow:none;
-    -webkit-box-shadow:none;
-    box-shadow:none;
-    color:#1E1E1E;
-  }
-  .regul_btn {
-    border-width:0px;
-    position:absolute;
-    left:656px;
-    top:1000px;
-    width:81px;
-    height:20px;
-    color:#1E1E1E;
-  }
-  .regul_text {
-    border-width:0px;
-    position:absolute;
-    left:2px;
-    top:2px;
-    width:77px;
-    white-space:nowrap;
-  }
-  
-  .onas_div {
-    border-width:0px;
-    position:absolute;
-    left:0px;
-    top:0px;
-    width:46px;
-    height:20px;
-    background:inherit;
-    background-color:rgba(255, 255, 255, 0);
-    border:none;
-    border-radius:0px;
-    -moz-box-shadow:none;
-    -webkit-box-shadow:none;
-    box-shadow:none;
-    color:#1E1E1E;
-  }
-  .onas_btn {
-    border-width:0px;
-    position:absolute;
-    left:674px;
-    top:950px;
-    width:46px;
-    height:20px;
-    color:#1E1E1E;
-  }
-  .onas_text {
-    border-width:0px;
-    position:absolute;
-    left:2px;
-    top:2px;
-    width:42px;
-    white-space:nowrap;
-  }
-  
-  .box3_div {
-    border-width:0px;
-    position:absolute;
-    left:0px;
-    top:0px;
-    width:300px;
-    height:150px;
-    background:inherit;
-    background-color:rgba(255, 255, 255, 0);
-    border:none;
-    border-radius:0px;
-    -moz-box-shadow:none;
-    -webkit-box-shadow:none;
-    box-shadow:none;
-    text-align:center;
-  }
-  .box3 {
-    border-width:0px;
-    position:absolute;
-    left:346px;
-    top:860px;
-    width:300px;
-    height:150px;
-    text-align:center;
-  }
-  .box3_text {
-    border-width:0px;
-    position:absolute;
-    left:0px;
-    top:0px;
-    width:300px;
-    word-wrap:break-word;
-  }
-  
-  .akt_div {
-    border-width:0px;
-    position:absolute;
-    left:0px;
-    top:0px;
-    width:95px;
-    height:20px;
-    background:inherit;
-    background-color:rgba(255, 255, 255, 0);
-    border:none;
-    border-radius:0px;
-    -moz-box-shadow:none;
-    -webkit-box-shadow:none;
-    box-shadow:none;
-    color:#1E1E1E;
-  }
-  .akt_btn {
-    border-width:0px;
-    position:absolute;
-    left:650px;
-    top:900px;
-    width:95px;
-    height:20px;
-    color:#1E1E1E;
-  }
-  .akt_text {
-    border-width:0px;
-    position:absolute;
-    left:2px;
-    top:2px;
-    width:91px;
-    white-space:nowrap;
-  }
+   
   
   .emailrej {
     border-width:0px;
     position:absolute;
-    left:150px;
-    top:400px;
     width:300px;
     height:25px;
   }
   .emailrej_input {
     position:absolute;
-    left:0px;
-    top:0px;
     width:300px;
     height:25px;
     font-family:'Arial Normalny', 'Arial';
     font-weight:400;
     font-style:normal;
     font-size:13px;
-    text-decoration:none;
     color:#000000;
     text-align:left;
   }
@@ -726,99 +177,26 @@ body {
   .haslorej {
     border-width:0px;
     position:absolute;
-    left:150px;
-    top:445px;
     width:300px;
     height:25px;
   }
   .haslorej_input {
     position:absolute;
-    left:0px;
-    top:0px;
     width:300px;
     height:25px;
     font-family:'Arial Normalny', 'Arial';
     font-weight:400;
     font-style:normal;
     font-size:13px;
-    text-decoration:none;
-    color:#000000;
-    text-align:left;
-  }
-
-  .hasloconf {
-    border-width:0px;
-    position:absolute;
-    left:500px;
-    top:445px;
-    width:300px;
-    height:25px;
-  }
-  .hasloconf_input {
-    position:absolute;
-    left:0px;
-    top:0px;
-    width:300px;
-    height:25px;
-    font-family:'Arial Normalny', 'Arial';
-    font-weight:400;
-    font-style:normal;
-    font-size:13px;
-    text-decoration:none;
     color:#000000;
     text-align:left;
   }
   
-  .button_rej {
-    border-width:0px;
-    position:absolute;
-    left:415px;
-    top:600px;
-    width:140px;
-    height:40px;
-    font-family:'Arial Pogrubiony', 'Arial Normalny', 'Arial';
-    font-weight:700;
-    font-style:normal;
-    font-size:18px;
-  }
-  .buttonrej_text {
-    border-width:0px;
-    position:absolute;
-    left:2px;
-    top:9px;
-    width:136px;
-    word-wrap:break-word;
-  }
-
-  .buttonosw {
-    border-width:0px;
-    position:absolute;
-    left:250px;
-    top:500px;
-    width:500px;
-    height:40px;
-    text-align: center;
-  }
-  .textosw {
-    border-width:0px;
-    position:absolute;
-    left:2px;
-    top:12px;
-    width:100%;
-    word-wrap:break-word;
-  }
-
-  .checkosw {
-    border-width:0px;
-    position:absolute;
-    left:230px;
-    top:514px;
-  }
 
   .imie {
     border-width:0px;
     position:absolute;
-    left:150px;
+    left:250px;
     top:400px;
     width:300px;
     height:25px;
@@ -841,7 +219,7 @@ body {
   .nazwisko {
     border-width:0px;
     position:absolute;
-    left:500px;
+    left:600px;
     top:400px;
     width:300px;
     height:25px;
@@ -864,7 +242,7 @@ body {
   .poczta {
     border-width:0px;
     position:absolute;
-    left:150px;
+    left:250px;
     top:445px;
     width:300px;
     height:25px;
@@ -887,7 +265,7 @@ body {
   .miasto {
     border-width:0px;
     position:absolute;
-    left:500px;
+    left:600px;
     top:445px;
     width:300px;
     height:25px;
@@ -907,33 +285,11 @@ body {
     text-align:left;
   }
 
+  
   .ulica {
     border-width:0px;
     position:absolute;
-    left:150px;
-    top:490px;
-    width:300px;
-    height:25px;
-  }
-  .ulica_input {
-    position:absolute;
-    left:0px;
-    top:0px;
-    width:300px;
-    height:25px;
-    font-family:'Arial Normalny', 'Arial';
-    font-weight:400;
-    font-style:normal;
-    font-size:13px;
-    text-decoration:none;
-    color:#000000;
-    text-align:left;
-  }
-
-  .ulica {
-    border-width:0px;
-    position:absolute;
-    left:150px;
+    left:250px;
     top:490px;
     width:300px;
     height:25px;
@@ -955,7 +311,7 @@ body {
   .numer {
     border-width:0px;
     position:absolute;
-    left:500px;
+    left:600px;
     top:490px;
     width:300px;
     height:25px;
@@ -978,7 +334,7 @@ body {
   .kraj {
     border-width:0px;
     position:absolute;
-    left:150px;
+    left:250px;
     top:535px;
     width:300px;
     height:25px;
@@ -1000,7 +356,7 @@ body {
   .numertel {
     border-width:0px;
     position:absolute;
-    left:150px;
+    left:250px;
     top:580px;
     width:300px;
     height:25px;
@@ -1023,7 +379,7 @@ body {
   .adres_email {
     border-width:0px;
     position:absolute;
-    left:500px;
+    left:600px;
     top:580px;
     width:300px;
     height:25px;
@@ -1046,7 +402,7 @@ body {
   .button_dane {
     border-width:0px;
     position:absolute;
-    left:415px;
+    left:515px;
     top:700px;
     width:140px;
     height:40px;
@@ -1067,7 +423,7 @@ body {
   .button_zrealizowane {
     border-width:0px;
     position:absolute;
-    left:270px;
+    left:370px;
     top:750px;
     width:440px;
     height:40px;
@@ -1084,25 +440,22 @@ body {
     width:100%;
     word-wrap:break-word;
   }
-  .tytulstr2{
-    border-width:0px;
-    position:absolute;
-    left:270px;
-    top:325px;
-    width:400px;
-    height:50px;
-    font-family:'Arial';
-    font-weight:700;
-    font-style:normal;
-    font-size:24px;
-    text-align: center;
-  }
+ 
+.stopkas
+{
+  padding-top: 20px;
+  background:#CFBDA5;
+}
 
- .tabela{
-  border-width:0px;
-  position:absolute;
-  left:150px;
-  top:500px;
-  width:750px;
-  height:40px;
- }
+.naglowek{
+  background:#CFBDA5;
+}
+
+.logowanie{
+  background: #B7A48C;
+}
+
+.menu{
+  background: #4F3F2B;
+}
+ 
